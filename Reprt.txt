@@ -1,0 +1,13 @@
+--------------------------------
+	-> system supr User : sudo su
+--------------------------------
+	->	Get IP : ifconfig
+		System-IP :192.168.1.30
+----------------------------------
+	->	Run Angular Host and other network :
+		ng serve --host 192.168.1.30
+----------------------------------
+	->	Install deb file in ubantu :
+		command :
+		sudo dpkg -i /path/to/deb/file
+		sudo apt-get install -f
